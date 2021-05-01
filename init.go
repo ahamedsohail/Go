@@ -21,4 +21,5 @@ func main(){
 
 func foo(){
 	fmt.Println("foo function")
+	fmt.Println("test")
 }
